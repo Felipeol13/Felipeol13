@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Felipe Barbosa</h1>
-<h3 align="center">Apaixonado por analise de dados</h3>
+<h3 align="center">Explorando o mundo dos dados</h3>
 
-- 🔭 I’m currently working on [Análise de dados - Google](https://www.coursera.org/professional-certificates/google-data-analytics)
+- 🔭 Atualmente me desenvolvendo através deste curso [Análise de dados - Google](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-- 🌱 I’m currently learning **SQL, Tableau, Excel**
+- 🌱 Aprendendo sobre **SQL, Tableau, Excel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Felipeol13](https://github.com/Felipeol13)
+- 👨‍💻 Todos os meus projetos e progesso registrados aqui -> [https://github.com/Felipeol13](https://github.com/Felipeol13)
 
-- 📫 How to reach me **felipe_ol13@hotmail.com**
+- 📫 Como me contactar **felipe_ol13@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
